@@ -6,11 +6,11 @@ App de toDos:
  Javascript
  
 # Utilizado no JS:
-Queryselector
-functions
-localstorage
-createElement
-appendChild
-métodos de inserção em arrays
-JSON.parse
+Queryselector, 
+functions, 
+localstorage, 
+createElement, 
+appendChild, 
+métodos de inserção em arrays, 
+JSON.parse, 
 JSON.stringify
